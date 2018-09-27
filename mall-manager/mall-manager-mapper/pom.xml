@@ -21,12 +21,40 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
-
+<!--依赖管理-->
   <dependencies>
+    <!--依赖pojo-->
     <dependency>
       <groupId>com.zzc</groupId>
       <artifactId>mall-manager-pojo</artifactId>
       <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <!-- Mybatis -->
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis-spring</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.github.miemiedev</groupId>
+      <artifactId>mybatis-paginator</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.github.pagehelper</groupId>
+      <artifactId>pagehelper</artifactId>
+    </dependency>
+    <!-- MySql -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+    </dependency>
+    <!-- 连接池 -->
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>druid</artifactId>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
