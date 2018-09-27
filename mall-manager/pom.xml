@@ -17,6 +17,13 @@
     <module>mall-manager-web</module>
   </modules>
   <artifactId>mall-manager</artifactId>
+  <!-- 依赖管理 -->
 
-
+  <dependencies>
+    <dependency>
+      <groupId>com.zzc</groupId>
+      <artifactId>mall-common</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
 </project>
