@@ -11,8 +11,35 @@
   <modelVersion>4.0.0</modelVersion>
   <packaging>jar</packaging>
   <artifactId>mall-common</artifactId>
-<!--jar包的依赖-->
+  <url>http://www.example.com</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+  <!-- 依赖工具类的jar包 -->
   <dependencies>
+    <dependency>
+      <groupId>portlet-api</groupId>
+      <artifactId>portlet-api</artifactId>
+      <version>1.0</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>jstl</artifactId>
+      <version>1.0.2</version>
+    </dependency>
+    <dependency>
+      <groupId>taglibs</groupId>
+      <artifactId>standard</artifactId>
+      <version>1.0.4</version>
+    </dependency>
     <!-- 时间操作组件 -->
     <dependency>
       <groupId>joda-time</groupId>
@@ -41,6 +68,11 @@
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
     </dependency>
+    <!-- quartz任务调度框架 -->
+    <dependency>
+      <groupId>org.quartz-scheduler</groupId>
+      <artifactId>quartz</artifactId>
+    </dependency>
     <!-- 单元测试 -->
     <dependency>
       <groupId>junit</groupId>
@@ -51,6 +83,11 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
+    </dependency>
+    <!--FastDFS文件上传-->
+    <dependency>
+      <groupId>cn.bestwu</groupId>
+      <artifactId>fastdfs-client-java</artifactId>
     </dependency>
   </dependencies>
 </project>

@@ -10,12 +10,44 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <packaging>pom</packaging>
+ <!-- &lt;!&ndash; tomcat8-maven-plugin配置插件地址&ndash;&gt;
+  <pluginRepositories>
+    <pluginRepository>
+      <id>alfresco-public</id>
+      <url>https://artifacts.alfresco.com/nexus/content/groups/public</url>
+    </pluginRepository>
+    <pluginRepository>
+      <id>alfresco-public-snapshots</id>
+      <url>https://artifacts.alfresco.com/nexus/content/groups/public-snapshots</url>
+      <snapshots>
+        <enabled>true</enabled>
+        <updatePolicy>daily</updatePolicy>
+      </snapshots>
+    </pluginRepository>
+    <pluginRepository>
+      <id>beardedgeeks-releases</id>
+      <url>http://beardedgeeks.googlecode.com/svn/repository/releases</url>
+    </pluginRepository>
+  </pluginRepositories>-->
   <modules>
     <module>mall-manager-pojo</module>
     <module>mall-manager-mapper</module>
     <module>mall-manager-service</module>
     <module>mall-manager-web</module>
   </modules>
+  <build>
+    <!-- 配置插件 -->
+    <plugins>
+      <plugin>
+        <groupId>org.apache.tomcat.maven</groupId>
+        <artifactId>tomcat7-maven-plugin</artifactId>
+        <configuration>
+          <port>8080</port>
+          <path>/</path>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
   <artifactId>mall-manager</artifactId>
   <!-- 依赖管理 -->
 
