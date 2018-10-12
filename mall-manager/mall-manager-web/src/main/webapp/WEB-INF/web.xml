@@ -12,7 +12,6 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
-    <welcome-file>login.do</welcome-file>
   </welcome-file-list>
   <!-- 加载spring容器 -->
   <context-param>
@@ -28,11 +27,7 @@
     <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
     <init-param>
       <param-name>encoding</param-name>
-      <param-value>UTF-8</param-value>
-    </init-param>
-    <init-param>
-      <param-name>forceEncoding</param-name>
-      <param-value>true</param-value>
+      <param-value>utf-8</param-value>
     </init-param>
   </filter>
   <filter-mapping>
@@ -53,6 +48,5 @@
   <servlet-mapping>
     <servlet-name>mall-manager</servlet-name>
     <url-pattern>/</url-pattern>
-    <url-pattern>*.do</url-pattern>
   </servlet-mapping>
 </web-app>
