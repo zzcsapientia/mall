@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a661461d-b66d-4e92-ab36-d93c0c6bd7e0" name="Default Changelist" comment="" />
+    <list default="true" id="a661461d-b66d-4e92-ab36-d93c0c6bd7e0" name="Default Changelist" comment="增加dao层配置文件1、applicationContext-dao.xml&#10;service层配置文件1、applicationContext-service.xml&#10;2、applicationContext-trans.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sapientia.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mall_manager_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/mall_manager_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_4_2_fix.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/mall-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common/mall-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/target/mall-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-mapper/mall-manager-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager-mapper/mall-manager-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-mapper/target/classes/com/zzc/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-pojo/mall-manager-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager-pojo/mall-manager-pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-service/mall-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager-service/mall-manager-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-web/mall-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager-web/mall-manager-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-manager/mall-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-manager/mall-manager.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/mall-parent/target/" />
     <ignored path="$PROJECT_DIR$/mall-common/target/" />
     <ignored path="$PROJECT_DIR$/mall-manager/target/" />
@@ -18,7 +66,7 @@
   <component name="CheckStyle-IDEA-workspace">
     <option name="configuration">
       <map>
-        <entry key="last-active-plugin-version" value="5.22.0" />
+        <entry key="last-active-plugin-version" value="5.23.0" />
       </map>
     </option>
   </component>
@@ -29,46 +77,71 @@
     <session id="-774672129">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="3" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="4" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="0-SNAPSHOT" value="1" />
           <entry key="MODULES/mdl-mall-parent" value="1" />
-          <entry key="jsp" value="3" />
-          <entry key="pom" value="4" />
-          <entry key="xml" value="56" />
+          <entry key="class" value="5" />
+          <entry key="css" value="1" />
+          <entry key="java" value="83" />
+          <entry key="jsp" value="5" />
+          <entry key="pom" value="5" />
+          <entry key="properties" value="4" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="121" />
+          <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSP" value="3" />
+          <entry key="CLASS" value="5" />
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="83" />
+          <entry key="JSP" value="5" />
+          <entry key="Properties" value="4" />
           <entry key="UML" value="2" />
-          <entry key="XML" value="60" />
+          <entry key="XML" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jsp" value="29" />
-          <entry key="txt" value="89" />
-          <entry key="xml" value="719" />
+          <entry key="java" value="511" />
+          <entry key="jsp" value="59" />
+          <entry key="properties" value="8" />
+          <entry key="tld" value="1" />
+          <entry key="txt" value="314" />
+          <entry key="xml" value="1172" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSP" value="29" />
-          <entry key="PLAIN_TEXT" value="89" />
-          <entry key="XML" value="719" />
+          <entry key="JAVA" value="511" />
+          <entry key="JSP" value="59" />
+          <entry key="PLAIN_TEXT" value="314" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="1173" />
         </counts>
       </usages-collector>
     </session>
@@ -78,14 +151,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mall-parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+            <state relative-caret-position="600">
+              <caret line="165" column="18" lean-forward="true" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -95,6 +178,12 @@
       <find>common</find>
       <find>commons-io</find>
       <find>&gt;</find>
+      <find>utf</find>
+      <find>junit</find>
+      <find>1.8</find>
+      <find>jackson-databind</find>
+      <find>client</find>
+      <find>fastdfs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,15 +192,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mall-manager/mall-manager-pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-manager/mall-manager-service/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-manager/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-common/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-dao.xml.tld" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/resource/db.properties" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/ItemParam.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ContentCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ContentMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemCatMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemDescMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemParamItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemParamMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/OrderItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/OrderShippingMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/Item.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbContentExample.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/java/com/zzc/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/java/com/zzc/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/java/com/zzc/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbContentCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbContentMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemCatMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemDescMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemParamItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemParamMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderItemMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderShippingMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbUserMapper.java" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemCatMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbContentCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbContentMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemDescMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemParamItemMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemParamMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderItemMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderShippingMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbUserMapper.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
       </list>
     </option>
   </component>
@@ -131,28 +262,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="y" value="116" />
+    <option name="x" value="85" />
+    <option name="y" value="115" />
     <option name="width" value="1645" />
     <option name="height" value="855" />
   </component>
@@ -162,129 +278,17 @@
         <expanded-state>
           <State />
           <State>
-            <id>Android</id>
+            <id>Manifest</id>
           </State>
           <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Code quality toolsCSS</id>
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>CorrectnessLintAndroid</id>
-          </State>
-          <State>
-            <id>Cucumber</id>
-          </State>
-          <State>
-            <id>Dependency issuesJava</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Hibernate</id>
-          </State>
-          <State>
-            <id>ImportsJava</id>
-          </State>
-          <State>
-            <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>JBoss Seam</id>
-          </State>
-          <State>
-            <id>JPA</id>
-          </State>
-          <State>
-            <id>JUnitJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavadocJava</id>
-          </State>
-          <State>
-            <id>LintAndroid</id>
-          </State>
-          <State>
-            <id>LoggingJava</id>
-          </State>
-          <State>
-            <id>Modularization issuesJava</id>
-          </State>
-          <State>
-            <id>Packaging issuesJava</id>
-          </State>
-          <State>
-            <id>Pattern Validation</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>RELAX NG</id>
-          </State>
-          <State>
-            <id>Resource managementJava</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>SecurityJava</id>
-          </State>
-          <State>
-            <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring DataSpring</id>
-          </State>
-          <State>
-            <id>Threading issuesJava</id>
-          </State>
-          <State>
-            <id>TypeScript</id>
-          </State>
-          <State>
-            <id>UsabilityLintAndroid</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-          <State>
-            <id>XSLT</id>
-          </State>
-          <State>
-            <id>YAML</id>
+            <id>Spelling</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -309,21 +313,30 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="mapcon&#9;FILE&#9;file://D:/gitWork/mall/mall-manager/mall-manager-web/src/main/resources/mybatis/SqlMapConfig.xml&#10;pri&#9;FILE&#9;file://D:/gitWork/mall/mall-manager/mall-manager-web/src/main/resources/spring/springmvc.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538120296531" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541067155127" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.side.proportion" value="0.30708662" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitWork\mall\mall-manager\mall-manager-pojo\src\main\java\com\zzc\pojo" />
+      <recent name="D:\gitWork\mall\mall-manager\mall-manager-mapper\src\main\resources\com\zzc\mapper" />
+      <recent name="D:\gitWork\mall\mall-manager\mall-manager-mapper\src\main\java\com\zzc\mapper" />
+      <recent name="D:\gitWork\mall\mall-manager\mall-manager-web\src\main\resources\spring" />
+      <recent name="D:\gitWork\mall\mall-manager\mall-manager-web\src\main\resources\resource" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -384,7 +397,37 @@
       <workItem from="1538050436808" duration="5426000" />
       <workItem from="1538095805256" duration="2176000" />
       <workItem from="1538098379379" duration="7911000" />
-      <workItem from="1538106484571" duration="7671000" />
+      <workItem from="1538106484571" duration="9978000" />
+      <workItem from="1538189018737" duration="1800000" />
+      <workItem from="1538196781005" duration="1454000" />
+      <workItem from="1538267467700" duration="3767000" />
+      <workItem from="1538958073148" duration="835000" />
+      <workItem from="1538969005799" duration="8911000" />
+      <workItem from="1539047140969" duration="1422000" />
+      <workItem from="1539051338552" duration="609000" />
+      <workItem from="1539052936456" duration="165000" />
+      <workItem from="1539064254253" duration="2163000" />
+      <workItem from="1539131648021" duration="6015000" />
+      <workItem from="1539149076310" duration="3466000" />
+      <workItem from="1539218943674" duration="12838000" />
+      <workItem from="1539240046335" duration="3365000" />
+      <workItem from="1539243766912" duration="45000" />
+      <workItem from="1539243857601" duration="246000" />
+      <workItem from="1539244524733" duration="6069000" />
+      <workItem from="1539307204985" duration="1067000" />
+      <workItem from="1539312485472" duration="4000" />
+      <workItem from="1539735483590" duration="192000" />
+      <workItem from="1539737282988" duration="694000" />
+      <workItem from="1539759708938" duration="631000" />
+      <workItem from="1540438624148" duration="280000" />
+      <workItem from="1540438927844" duration="2311000" />
+      <workItem from="1540773040630" duration="716000" />
+      <workItem from="1540972041509" duration="171000" />
+      <workItem from="1540972442180" duration="3545000" />
+      <workItem from="1540977570473" duration="3539000" />
+      <workItem from="1541031900861" duration="2694000" />
+      <workItem from="1541472119887" duration="1886000" />
+      <workItem from="1541661078485" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="商城项目，使用Springmvc、Spring、Mybatis、Maven、CMS、Redis、&#10;Solr、Linux、Nginx、单点登录、分布式缓存、负载均衡等技术的电商项目">
       <created>1537512301896</created>
@@ -442,17 +485,66 @@
       <option name="project" value="LOCAL" />
       <updated>1538118508547</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="增加dao层配置文件1、applicationContext-dao.xml&#10;service层配置文件1、applicationContext-service.xml&#10;2、applicationContext-trans.xml">
+      <created>1539220082579</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539220082579</updated>
+    </task>
+    <task id="LOCAL-00010" summary="增加配置文件和mybatis逆向工程生成的pojo类、mapper">
+      <created>1539220275356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539220275356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="配置web.xml 乱码字符过滤器 springmvc前端控制器 加载spring容器">
+      <created>1539223535462</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539223535462</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加spring配置文件 springMVC.xml">
+      <created>1539226713075</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1539226713075</updated>
+    </task>
+    <task id="LOCAL-00013" summary="框架搭建 增加配置文件，加入mybatis逆向工程生成mapper.xml文件">
+      <created>1539307711117</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1539307711117</updated>
+    </task>
+    <task id="LOCAL-00014" summary="测试">
+      <created>1541055447798</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541055447798</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test">
+      <created>1541056225088</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1541056225088</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48201000" />
+    <option name="totallyTimeSpent" value="121833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16487935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -461,20 +553,20 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33038348" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597856" weight="0.29646018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32761905" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32743362" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50083196" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402147" side_tool="true" weight="0.34513274" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32890856" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32890856" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49916804" weight="0.24926254" />
       <window_info anchor="bottom" id="Spring" order="17" weight="0.32890856" />
@@ -504,129 +596,322 @@
     <MESSAGE value="商城项目聚合工程" />
     <MESSAGE value="聚合工程创建完成，可以测试本地运行" />
     <MESSAGE value="聚合工程创建完成，可以测试本地运" />
-    <option name="LAST_COMMIT_MESSAGE" value="聚合工程创建完成，可以测试本地运" />
+    <MESSAGE value="增加dao层配置文件1、applicationContext-dao.xml&#10;service层配置文件1、applicationContext-service.xml&#10;2、applicationContext-trans.xml" />
+    <MESSAGE value="增加配置文件和mybatis逆向工程生成的pojo类、mapper" />
+    <MESSAGE value="配置web.xml 乱码字符过滤器 springmvc前端控制器 加载spring容器" />
+    <MESSAGE value="添加spring配置文件 springMVC.xml" />
+    <MESSAGE value="框架搭建 增加配置文件，加入mybatis逆向工程生成mapper.xml文件" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://MODULES/mdl-mall-parent">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MODULES</ID>
-          <OriginalElement>mdl-mall-parent</OriginalElement>
-          <nodes>
-            <node x="" y="">mdl-mall-parent</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="77.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/myRepository/repository/org/springframework/spring-context/4.1.3.RELEASE/spring-context-4.1.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836" />
-      </provider>
-    </entry>
-    <entry file="file://D:/myRepository/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/myRepository/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="uml://MAVEN/com.zzc:mall-parent:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.zzc:mall-parent:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.zzc:mall-parent:1.0-SNAPSHOT</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="296.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/Item.java" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/ItemMapper.java" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/target/classes/com/zzc/mapper/ContentCategoryMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/target/classes/com/zzc/mapper/ContentMapper.class" />
     <entry file="file://$PROJECT_DIR$/mall-manager/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="-132">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="150">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbContentExample.java" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbContentCategoryMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/java/com/zzc/service/ItemService.java" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/java/com/zzc/controller/ItemController.java" />
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/java/com/zzc/service/impl/ItemServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="200">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbContentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemDescMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-501">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemParamItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemParamMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderShippingMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbContentCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbOrderShipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemCatMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemDescMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/src/main/java/com/zzc/pojo/TbItemParamItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/java/com/zzc/mapper/TbItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbOrderShippingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemParamItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper/src/main/resources/com/zzc/mapper/TbItemParamMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/properties/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/myRepository/repository/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar!/org/aopalliance/aop/Advice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/myRepository/repository/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar!/org/aopalliance/aop/AspectException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/myRepository/repository/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar!/org/aopalliance/intercept/ConstructorInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/myRepository/repository/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar!/org/aopalliance/intercept/ConstructorInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mall-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        <state relative-caret-position="600">
+          <caret line="165" column="18" lean-forward="true" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -689,8 +974,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.5" />
+                <option value="0.30708662" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -710,11 +995,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <last-edited>Maven: org.slf4j:slf4j-log4j12:1.6.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.30708662" />
               </list>
             </option>
           </splitter-proportions>
